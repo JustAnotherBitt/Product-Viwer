@@ -1,0 +1,10 @@
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\bin\Debug\VisualizadorProdutos.exe.config
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\bin\Debug\VisualizadorProdutos.exe
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\bin\Debug\VisualizadorProdutos.pdb
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\ProductViwer.csproj.AssemblyReference.cache
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\VisualizadorProdutos.Properties.Resources.resources
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\ProductViwer.csproj.GenerateResource.cache
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\ProductViwer.csproj.CoreCompileInputs.cache
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\VisualizadorProdutos.exe
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\VisualizadorProdutos.pdb
+G:\a_LETICIA\programming\C#\VisualizadorProdutos\obj\Debug\ProductViwer.Form1.resources
